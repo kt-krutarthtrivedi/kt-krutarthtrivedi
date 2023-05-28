@@ -23,7 +23,7 @@
 
 ## Ask me about 💬
 - Cut Sequencing Algorithm for Safely Disassembling Large Structures, [Robotic Ship Breaking](https://wp.wpi.edu/merlab/robotic-metal-scrap-cutting/)
-- An eye-in-hand vision-based grasping system for unknown objects, [Active Vision for Manipulation](https://wp.wpi.edu/merlab/active-vision-for-manipulation/)
+- An Eye-in-hand Vision-based Grasping System for Unknown Objects, [Active Vision for Manipulation](https://wp.wpi.edu/merlab/active-vision-for-manipulation/)
 
 ## Contact 📫
 LinkedIn: [Krutarth Trivedi](https://www.linkedin.com/in/krutarth-a-trivedi/)
