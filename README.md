@@ -11,7 +11,6 @@
 
 ## Research Experience 🌱
 - Directed Researcher, [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/) (Jan 2022 - Jan 2023)
-- Research Assistant, [Environmental Robotics](https://www.environmental-robotics.com/) (Jan 2022 - April 2022)
 
 ## Key Projects 🔭
 - [Multi-layer Motion Planning for Autonomous Vehicles](https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles) (Motion Planning)
