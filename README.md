@@ -6,11 +6,11 @@
 
 ## Professional Experience 🌱
 - Robotics Software Co-op, [Mevion Medical Systems](https://www.mevion.com/) (May 2022 - April 2023)
-- Embedded Software Engineer, [Lumium Design](https://lumiumdesign.com/) (May 2018 - Jul 2022)
+- Embedded Software Engineer, [Lumium Design](https://lumiumdesign.com/) (May 2018 - Jul 2021)
 - Research & Development Intern, [Greenfield Control Systems](http://www.greenfieldcontrol.com/) (June 2017 - April 2018)
 
 ## Research Experience 🌱
-- Directed Researcher, [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/) (Jan 2022 - Jan 2023)
+- Directed Researcher, [Manipulation & Environmental Robotics Lab](https://wp.wpi.edu/merlab/) (Aug 2021 - Present)
 
 ## Key Projects 🔭
 - [Multi-layer Motion Planning for Autonomous Vehicles](https://github.com/kt-krutarthtrivedi/Multi-Layer-Motion-Planning-For-Autonomous-Vehicles) (Motion Planning)
